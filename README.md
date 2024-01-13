@@ -1,1 +1,1 @@
-https://wwww.mpswebapp-001-site1.etempurl.com
+http://mpswebapp-001-site1.etempurl.com/
